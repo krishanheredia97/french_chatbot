@@ -1,0 +1,5 @@
+.env
+venv
+project
+populator.py
+structure.py
